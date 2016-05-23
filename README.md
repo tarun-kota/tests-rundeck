@@ -1,2 +1,2 @@
 # tests-rundeck
-A test repostior
+A test repostiory for testing various features of rundeck.
